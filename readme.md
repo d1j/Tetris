@@ -8,3 +8,7 @@
 - To run the game, clone this repository and open `Tetris_P5JS.html` file using preferred browser.
 - The game itself is not finished, it lacks of a score counter and an option to restart the game after loss. I did not implement such functionality, because it did not seem like a challenge after completion of physics and rules.
 - To be honest, this project did not really help me learn JS, as it lacked of a DOM manipulation (initial purpose of JS), but it was fun little project to work with. I chose JS because of p5.js library, which provided tools for simple graphics and let me focus on key principles of the game.
+
+![](https://raw.githubusercontent.com/d1j/Tetris/master/screenshots/1.png)
+![](https://raw.githubusercontent.com/d1j/Tetris/master/screenshots/2.png)
+![](https://raw.githubusercontent.com/d1j/Tetris/master/screenshots/3.png)
